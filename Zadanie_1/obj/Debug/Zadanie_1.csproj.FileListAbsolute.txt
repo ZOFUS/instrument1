@@ -1,0 +1,10 @@
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.csproj.AssemblyReference.cache
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.Form1.resources
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.Properties.Resources.resources
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.csproj.GenerateResource.cache
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\lebed\source\repos\Zadanie_1\bin\Debug\Zadanie_1.exe.config
+C:\Users\lebed\source\repos\Zadanie_1\bin\Debug\Zadanie_1.exe
+C:\Users\lebed\source\repos\Zadanie_1\bin\Debug\Zadanie_1.pdb
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.exe
+C:\Users\lebed\source\repos\Zadanie_1\obj\Debug\Zadanie_1.pdb
